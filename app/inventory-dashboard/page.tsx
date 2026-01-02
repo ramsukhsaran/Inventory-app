@@ -92,7 +92,7 @@ const InventoryDashboardPage = async () => {
               </div>
 
               <div className='text-center'>
-                <div className='text-3xl font-bold text-gray-900' >
+                <div className='text-2xl font-bold text-gray-900' >
                   &#8377;{totalValue.toFixed(2)}
                 </div>
                 <div className='text-sm  text-gray-600'>Total Value</div>
